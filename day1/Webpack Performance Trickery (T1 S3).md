@@ -67,6 +67,11 @@ Tells you the cost of the package
 - Prevent duplicate dependencies within _same_ bundle
  - `duplicate-package-checker-webpack-plugin`
 
- ## Watcher first
+### Images
 
- - 
+Use `<Picture> <source /> <source /> </Picture>`
+
+- Webp -> Chrome + Firefox
+- JPEG XR -> IE
+- JPEG 2000 -> iOS/Safari
+

@@ -6,7 +6,7 @@
 
 `- *The brilliant idea* within a bigger sentence [./dayN/filename.md](T# S#)`
 
-- [ ]
+- **Only include package dependencies that you need.** Use tools to profile which packages are too big and other tools for page load stats [T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md)
 
 ## Day 1
 
