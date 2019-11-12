@@ -4,9 +4,17 @@
 
 ## Take Aways
 
-`- *The brilliant idea* within a bigger sentence [./dayN/filename.md](T# S#)`
+`- **The brilliant idea** within a bigger sentence ([./dayN/filename.md](T# S#))`
 
-- **Only include package dependencies that you need.** Use tools to profile which packages are too big and other tools for page load stats [T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md)
+- Consider the non-standard browsers: **KaiOS and Facebook Mobile Browser** ([Tx.S1 Keynote](./day1/keynote.md))
+- **Only include package dependencies that you need.** Use tools to profile which packages are too big and other tools for page load stats ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
+
+
+## ToDo / Next Steps
+
+- [ ] Check out **[Kaggle](https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiAzanuBRAZEiwA5yf4umyVYrQlpt9urYPWGZaiSM0J-d-4b8uWTgiAYOd2z6X6yKajlaDZABoCHQwQAvD_BwE) for open data sets** ([T1.S2 WineUp: Wine, Cheese Vue](./day1/wineup.md))
+- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
+
 
 ## Day 1
 

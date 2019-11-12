@@ -66,10 +66,22 @@ Tells you the cost of the package
   - Ensure React isn't included twice in different bundles
 - Prevent duplicate dependencies within _same_ bundle
  - `duplicate-package-checker-webpack-plugin`
+- Webhint.io
+- Web page test
+- Mozilla Observatory
+- caniuse.com
 
 ### Images
 
 Use `<Picture> <source /> <source /> </Picture>`
+
+Load images lazily, choosing the right one for the right browser
+
+#### [Brotli](https://github.com/google/brotli) for image compression
+
+- Webserver image compression: 
+
+#### Next Gen Formats
 
 - Webp -> Chrome + Firefox
 - JPEG XR -> IE
