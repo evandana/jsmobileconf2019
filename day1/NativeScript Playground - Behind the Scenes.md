@@ -24,6 +24,4 @@
 
 #### Technologies Used:
 
-```
 ![](../img/ns_play_tech.jpeg "Technologies in Use")
-```
