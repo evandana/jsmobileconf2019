@@ -28,11 +28,13 @@
 - Garbage Collection
   - The NativeScript runtime listens for the finalize callbacks when objects in V8 get deallocated, and begins retaining a **weak** reference to the native (Java) object (instead of a previously-**strong** reference), so that the garbage collector in the JVM cleans up the native side as well
   - `releaseNativeCounterpart` API exists as a way to let the system know that you would like the native system to release/deallocate the memory
-- Avoiding Jank
-  - Building UI, performing animations, or HTTP/network requests - all sources of main thread jank
-  - Worker threads (based on the web workers API)
-  - During startup
-    - JavaScript code is being loaded from the filesystem (minimize them!)
-    - Parsing and compiling takes a long time
-    - **Bundling** your application helps this! (Fewer FS requests ==> faster launch time)
-    - **Custom startup snapshots** uses Webpack and the `mksnapshot` tool to generate architecture-specific `.blob` binary formats, which can then be embedded into your APK
+
+### Avoiding Jank
+
+- Building UI, performing animations, or HTTP/network requests - all sources of main thread jank
+- Worker threads (based on the web workers API)
+- During startup
+  - JavaScript code is being loaded from the filesystem (minimize them!)
+  - Parsing and compiling takes a long time
+  - **Bundling** your application helps this! (Fewer FS requests ==> faster launch time)
+  - **Custom startup snapshots** uses Webpack and the `mksnapshot` tool to generate architecture-specific `.blob` binary formats, which can then be embedded into your APK
