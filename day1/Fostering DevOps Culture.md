@@ -1,4 +1,7 @@
 # Fostering DevOps Culture - Diana Rodriguez
+
+## Track 2 - Lecture 2
+
 ### What is DevOps?
 
 - Increases collaboration between the roles of development and operations
