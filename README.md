@@ -1,8 +1,8 @@
 # JS Mobile Conf
 
-[./template.md](template)
+[template](./template.md)
 
 ## Day 1
 
-- [./day1-keynote.md](Keynote)
-- [./wineup.md](WineUp: Wine, Cheese Vue)
+- [Keynote](./day1/keynote.md)
+- [WineUp: Wine, Cheese Vue](./day1/wineup.md)
