@@ -6,4 +6,4 @@
 
 - [Keynote](./day1-keynote.md)
 - [WineUp: Wine, Cheese Vue](./wineup.md)
-- [Fostering DevOps Culture](./day1/Fostering DevOps Culture \(T2 S2\).md)
+- [Fostering DevOps Culture](./day1/Fostering DevOps Culture %28T2 S2%29.md)
