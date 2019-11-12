@@ -4,6 +4,6 @@
 
 ## Day 1
 
-- [./day1-keynote.md](Keynote)
-- [./wineup.md](WineUp: Wine, Cheese Vue)
-- [./day1/Fostering DevOps Culture (T2 S2).md](Fostering DevOps Culture)
+- [Keynote](./day1-keynote.md)
+- [WineUp: Wine, Cheese Vue](./wineup.md)
+- [Fostering DevOps Culture](./day1/Fostering DevOps Culture (T2 S2).md)
