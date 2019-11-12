@@ -9,7 +9,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - Consider the non-standard browsers: **KaiOS and Facebook Mobile Browser** ([Tx.S1 Keynote](./day1/keynote.md))
 - **Only include package dependencies that you need.** Use tools to profile which packages are too big and other tools for page load stats ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
 - **Debug with Chrome [Remote Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)** ([T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality%20(T1%20S5).md))
-
+- **Measure PWAs on good perceived metrics** not just popular metrics ([T1.S6 How to Build the Fastest PWA](Fastest%20PWA%20(T1%20S6).md))
 
 ## ToDo / Next Steps
 
@@ -29,4 +29,5 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T2.S4 Embedding V8 in the Real World](./day1/Embedding%20V8%20in%20the%20Real%20World.md)
 - [T2.S5 NativeScript Playground - Behind the Scenes](./day1/NativeScript%20Playground%20-%20Behind%20the%20Scenes.md)
 - [T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality%20(T1%20S5).md)
-- [T2.S6 How to Build the Fastest PWA](Fastest%20PWA%20(T1%20S6).md)
+- [T1.S6 How to Build the Fastest PWA](Fastest%20PWA%20(T1%20S6).md)
+- [T1.S6 Automating Hockey Team Management with Serverless](Serverless%20(T1%20S7).md)
