@@ -31,3 +31,5 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality%20(T1%20S5).md)
 - [T1.S6 How to Build the Fastest PWA](Fastest%20PWA%20(T1%20S6).md)
 - [T1.S6 Automating Hockey Team Management with Serverless](Serverless%20(T1%20S7).md)
+- [T2.S6 Tale of Two Titans - Flutter and NativeScript](./day1/Tale%20of%20Two%20Titans%20-%20Flutter%20and%20NativeScript.md)
+- [T2.S7 Building Something Sweet](./day1/Building%20Something%20Sweet.md)
