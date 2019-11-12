@@ -2,15 +2,15 @@
 
 ## Track 2 - Session 4
 
-### What is it?
+### What is NativeScript?
 
 - A native app development framework using Angular, Vue, or NativeScript 'light'
 - 100% native API access
 - Cross-platform abstraction for widgets, UI, CSS, etc.
 - NativeScript 'light'
   - A nice out-of-the-box option with functionality for most basic apps
-- or Vue.js
-- or Angular
+  - ...or Vue.js
+  - ...or Angular
 
 ### Native API Access
 
