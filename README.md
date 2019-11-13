@@ -48,4 +48,5 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T2.S3 JS Animation Performance](./day2/JS%20Animation%20Performance(T2%20S3).md)
 - [T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA%20(T2%20S4).md)
 - [T1.S5 JavaScript Mobile Testing and CI in the Cloud](./day2/Mobile%20Testing%20and%20CI%20(T1%20S5).md)
+- [T1.S6 Serverless, Async/Await, Immutability and other Things You Pretend to Understand](./day2/Serverless%20Async%20and%20Immutability%20(T1%20S6).md)
 
