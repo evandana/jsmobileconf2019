@@ -10,7 +10,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - **Only include package dependencies that you need.** Use tools to profile which packages are too big and other tools for page load stats ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
 - **Debug with Chrome [Remote Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)** ([T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality%20(T1%20S5).md))
 - **Measure PWAs on good perceived metrics** not just popular metrics ([T1.S6 How to Build the Fastest PWA](Fastest%20PWA%20(T1%20S6).md))
-- Tons of Client-Side Storage options, but must keep in mind that **Client-Side data is mutable and can NOT be trusted**
+- Tons of Client-Side Storage options, but must keep in mind that **Client-Side data is mutable and can NOT be trusted**. ([T1.S2 Client-Side Data Storage](./day2/Client-Side%20Data%20Storage%20(T1%20S2).md))
 
 ## ToDo / Next Steps
 
@@ -39,4 +39,5 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 
 - [Tx.S1 Keynote](./day2/Keynote%20(S1).md)
 - [T1.S2 Client-Side Data Storage](./day2/Client-Side%20Data%20Storage%20(T1%20S2).md)
+- [T2.S3 JS Animation Performance](./day2/JS%20Animation%20Performance(T2%20S3).md)
 
