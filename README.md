@@ -33,3 +33,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T1.S6 Automating Hockey Team Management with Serverless](Serverless%20(T1%20S7).md)
 - [T2.S6 Tale of Two Titans - Flutter and NativeScript](./day1/Tale%20of%20Two%20Titans%20-%20Flutter%20and%20NativeScript.md)
 - [T2.S7 Building Something Sweet](./day1/Building%20Something%20Sweet.md)
+
+## Day 2
+
+- [Tx.S1 Keynote](./day2/Keynote%20(S1).md)
