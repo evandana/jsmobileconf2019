@@ -40,4 +40,5 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [Tx.S1 Keynote](./day2/Keynote%20(S1).md)
 - [T1.S2 Client-Side Data Storage](./day2/Client-Side%20Data%20Storage%20(T1%20S2).md)
 - [T2.S3 JS Animation Performance](./day2/JS%20Animation%20Performance(T2%20S3).md)
+- [T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA%20(T2%20S4).md)
 
