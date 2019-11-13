@@ -11,6 +11,11 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - **Debug with Chrome [Remote Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)** ([T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality%20(T1%20S5).md))
 - **Measure PWAs on good perceived metrics** not just popular metrics ([T1.S6 How to Build the Fastest PWA](Fastest%20PWA%20(T1%20S6).md))
 - Tons of Client-Side Storage options, but must keep in mind that **Client-Side data is mutable and can NOT be trusted**. ([T1.S2 Client-Side Data Storage](./day2/Client-Side%20Data%20Storage%20(T1%20S2).md))
+- **App --> PWA: Shifting the nature of problems** ([T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA%20(T2%20S4).md))
+  - Platform compatibility --> Browser (and minor browser) compatibility
+  - App size --> Time to meaningful paint, smart prefetching logic
+  - Secured mobile state --> Ensure the local state is tamperproof
+- Use **Code Splitting for PWAs** and web ([T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA%20(T2%20S4).md))
 
 ## ToDo / Next Steps
 
@@ -18,6 +23,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 
 - [ ] Check out **[Kaggle](https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiAzanuBRAZEiwA5yf4umyVYrQlpt9urYPWGZaiSM0J-d-4b8uWTgiAYOd2z6X6yKajlaDZABoCHQwQAvD_BwE) for open data sets** ([T1.S2 WineUp: Wine, Cheese Vue](./day1/wineup.md))
 - **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
+- Will (when will?) Apple allow PWAs on their store?
 
 
 ## Day 1
