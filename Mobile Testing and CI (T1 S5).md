@@ -10,6 +10,9 @@
 1. appium
   - Integrates with SauceLabs
 1. SauceLabs
+  - Pro/Cons with Browserstack for tests
 
+## Thoughts
 
+- How well does this pattern translate into React Native?
 
