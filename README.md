@@ -54,4 +54,4 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T1.S5 JavaScript Mobile Testing and CI in the Cloud](./day2/Mobile%20Testing%20and%20CI%20(T1%20S5).md)
 - [T1.S5 JavaScript Mobile Testing and CI in the Cloud (Craig)](./day2/JavaScript%20Mobile%20Testing%20and%20CI%20in%20the%20Cloud.md)
 - [T1.S6 Serverless, Async/Await, Immutability and other Things You Pretend to Understand](./day2/Serverless%20Async%20and%20Immutability%20(T1%20S6).md)
-- [T1.S6 Serverless, Async/Await, Immutability and other Things You Pretend to Understand(Craig)](./day2/Serverless%2C%20Async%3AAwait%2C%20Immutability%20and%20Other%20Things%20You%20Pretend%20to%20Understand.md)
+- [T1.S6 Serverless, Async/Await, Immutability and other Things You Pretend to Understand (Craig)](./day2/Serverless%2C%20Async%3AAwait%2C%20Immutability%20and%20Other%20Things%20You%20Pretend%20to%20Understand.md)
