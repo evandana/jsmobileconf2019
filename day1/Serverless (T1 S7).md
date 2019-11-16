@@ -15,6 +15,8 @@
 (Decreasing popularity)
 
 - AWS _Lamda_ (can't send emails because of abuse)
+[Lin Song] Interesting,  I was able to send emails from Lambda
+
 - Microsoft _Azure_ (can send emails)
   - CosmosDB ($$$ - unless very careful)
 - GCP _Cloud Functions_
