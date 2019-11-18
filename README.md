@@ -16,6 +16,9 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
   - App size --> Time to meaningful paint, smart prefetching logic
   - Secured mobile state --> Ensure the local state is tamperproof
 - Use **Code Splitting for PWAs** and web ([T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA%20(T2%20S4).md))
+- **Replace Lodash and JQuery with vanilla JS whenever possible**
+- **Avoid PNG format in pictures and icons. SVG or browser-specific JPEG would make much smaller images**
+- **DevOps are friends, not tools. Better Dev - DevOps communication can help make things right from the very beginning, which will serve us well throughout the entire SDLC.**(T1.S2 - Fostering DevOps culture)
 
 ## ToDo / Next Steps
 
