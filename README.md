@@ -22,7 +22,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.md](T# S#))`
 
 - [ ] Check out **[Kaggle](https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiAzanuBRAZEiwA5yf4umyVYrQlpt9urYPWGZaiSM0J-d-4b8uWTgiAYOd2z6X6yKajlaDZABoCHQwQAvD_BwE) for open data sets** ([T1.S2 WineUp: Wine, Cheese Vue](./day1/wineup.md))
-- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
+- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery%20%28T1%20S3%29.md))
 - Will (when will?) Apple allow PWAs on their store?
 
 
@@ -44,9 +44,14 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 ## Day 2
 
 - [Tx.S1 Keynote](./day2/Keynote.md)
+- [Tx.S1 Keynote (Craig)](./day2/Keynote%20-%20You%20Are%20Awesome.md)
 - [T1.S2 Client-Side Data Storage](./day2/Client-Side%20Data%20Storage.md)
+- [T1.S2 Client-Side Data Storage (Craig)](./day2/Client-side%20Data%20Storage.md)
+- [T1.S3 Revealing 5 Mysteries of Cross-Platform Apps](./day2/Revealing%205%20Mysteries%20of%20Cross-Platform%20Apps.md)
 - [T2.S3 JS Animation Performance](./day2/JS%20Animation%20Performance(T2%20S3).md)
+- [T1.S4 10 Awesome Things You Can Build With NativeScript](./day2/10%20Awesome%20Things%20You%20Can%20Build%20With%20NativeScript.md)
 - [T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA.md)
 - [T1.S5 JavaScript Mobile Testing and CI in the Cloud](./day2/Mobile%20Testing%20and%20CI.md)
+- [T1.S5 JavaScript Mobile Testing and CI in the Cloud (Craig)](./day2/JavaScript%20Mobile%20Testing%20and%20CI%20in%20the%20Cloud.md)
 - [T1.S6 Serverless, Async/Await, Immutability and other Things You Pretend to Understand](./day2/Serverless%20Async%20and%20Immutability.md)
-
+- [T1.S6 Serverless, Async/Await, Immutability and other Things You Pretend to Understand (Craig)](./day2/Serverless%2C%20Async%3AAwait%2C%20Immutability%20and%20Other%20Things%20You%20Pretend%20to%20Understand.md)
