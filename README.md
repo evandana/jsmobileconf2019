@@ -36,7 +36,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T2.S4 Embedding V8 in the Real World](./day1/Embedding%20V8%20in%20the%20Real%20World.md)
 - [T2.S5 NativeScript Playground - Behind the Scenes](./day1/NativeScript%20Playground%20-%20Behind%20the%20Scenes.md)
 - [T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality.md)
-- [T1.S6 How to Build the Fastest PWA](Fastest%20PWA.md)
+- [T1.S6 How to Build the Fastest PWA](./day1/Fastest%20PWA.md)
 - [T1.S6 Automating Hockey Team Management with Serverless](Serverless.md)
 - [T2.S6 Tale of Two Titans - Flutter and NativeScript](./day1/Tale%20of%20Two%20Titans%20-%20Flutter%20and%20NativeScript.md)
 - [T2.S7 Building Something Sweet](./day1/Building%20Something%20Sweet.md)
