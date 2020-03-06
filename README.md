@@ -2,6 +2,11 @@
 
 [template](./template.md)
 
+## Should we attend in 2020?
+
+- Only if they increase the quality of the content (2018 had more detailed, useful, and relevant content)
+- If we want to focus on or learn about PWAs
+
 ## Take Aways
 
 Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.md](T# S#))`
