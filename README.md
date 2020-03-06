@@ -22,7 +22,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.md](T# S#))`
 
 - [ ] Check out **[Kaggle](https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiAzanuBRAZEiwA5yf4umyVYrQlpt9urYPWGZaiSM0J-d-4b8uWTgiAYOd2z6X6yKajlaDZABoCHQwQAvD_BwE) for open data sets** ([T1.S2 WineUp: Wine, Cheese Vue](./day1/wineup.md))
-- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery%20(T1%20S3).md))
+- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery%20%28T1%20S3%29.md))
 - Will (when will?) Apple allow PWAs on their store?
 
 
