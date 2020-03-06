@@ -8,8 +8,8 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 
 - Consider the non-standard browsers: **KaiOS and Facebook Mobile Browser** ([Tx.S1 Keynote](./day1/keynote.md))
 - **Only include package dependencies that you need.** Use tools to profile which packages are too big and other tools for page load stats ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
-- **Debug with Chrome [Remote Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)** ([T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality.md))
-- **Measure PWAs on good perceived metrics** not just popular metrics ([T1.S6 How to Build the Fastest PWA](Fastest%20PWA.md))
+- **Debug with Chrome [Remote Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)** ([T2.S5 How to Build Better Tutorials with Mixed Reality](./day1/How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality.md))
+- **Measure PWAs on good perceived metrics** not just popular metrics ([T1.S6 How to Build the Fastest PWA](./day1/Fastest%20PWA.md))
 - Tons of Client-Side Storage options, but must keep in mind that **Client-Side data is mutable and can NOT be trusted**. ([T1.S2 Client-Side Data Storage](./day2/Client-Side%20Data%20Storage.md))
 - **App --> PWA: Shifting the nature of problems** ([T2.S4 Why Every App Should be a PWA](./day2/Make%20It%20A%20PWA.md))
   - Platform compatibility --> Browser (and minor browser) compatibility
