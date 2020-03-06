@@ -22,7 +22,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.md](T# S#))`
 
 - [ ] Check out **[Kaggle](https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiAzanuBRAZEiwA5yf4umyVYrQlpt9urYPWGZaiSM0J-d-4b8uWTgiAYOd2z6X6yKajlaDZABoCHQwQAvD_BwE) for open data sets** ([T1.S2 WineUp: Wine, Cheese Vue](./day1/wineup.md))
-- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md))
+- **Run a quick package scan on our packages** ([T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery%20%28T1%20S3%29.md))
 - Will (when will?) Apple allow PWAs on their store?
 
 
@@ -32,7 +32,7 @@ Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.m
 - [T1.S2 WineUp: Wine, Cheese Vue](./day1/wineup.md)
 - [T2.S2 Fostering DevOps Culture](./day1/Fostering%20DevOps%20Culture.md)
 - [T2.S3 Building User Adaptive Interfaces](./day1/Building%20User%20Adaptive%20Interfaces.md)
-- [T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery.md)
+- [T1.S4 Webpack Performance Trickery](./day1/Webpack%20Performance%20Trickery%20%28T1%20S3%29.md)
 - [T2.S4 Embedding V8 in the Real World](./day1/Embedding%20V8%20in%20the%20Real%20World.md)
 - [T2.S5 NativeScript Playground - Behind the Scenes](./day1/NativeScript%20Playground%20-%20Behind%20the%20Scenes.md)
 - [T2.S5 How to Build Better Tutorials with Mixed Reality](How%20to%20Build%20Better%20Tutorials%20with%20Mixed%20Reality%20%28T1%20S5%29.md)
