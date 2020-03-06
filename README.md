@@ -7,6 +7,10 @@
 - Only if they increase the quality of the content (2018 had more detailed, useful, and relevant content)
 - If we want to focus on or learn about PWAs
 
+## In a Nutshell
+
+- Put on by Progress Software with a bias towards NativeScript and Vue.js
+
 ## Take Aways
 
 Template: `- **The brilliant idea** within a bigger sentence ([./dayN/filename.md](T# S#))`
