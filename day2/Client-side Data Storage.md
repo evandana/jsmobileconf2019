@@ -1,55 +1,133 @@
-# Client-side Data Storage - Raymond Camden
+# Client-Side Data Storage
 
-### Why Store Anything?
+## Speaker: Raymond Camden
 
-- Websites are getting larger
-- Sometimes data doesn't change!
+Engineer for [HERE](https://www.here.com/) (Maps and stuff)
 
-### Technologies
+[Slides](https://github.com/cfjedimaster/client-side-storage-preso)
 
-- Cookies (they're *everywhere*)
+## Why Offline Storage?
+
+- Connections aren't boolean
+- Some things don't change
+
+## Offline Options
+
+- Cookies
 - Web Storage
-- IndexedDB
-- Service Worker/Caching API
+- IndexDB
+- Service Worker & Caching API
 
-## Options, How to Use Them
+### Accessibility
+
+- Supported everywhere
+- Storage amounts are not published (except Firefox)
 
 ### Cookies
-- We can store 300+ cookies per browser
-- 4kb+ per cookie
-- 20+ per host
-### Cookies - Uses
-- Authentication/Authorization
-- Libraries:
-  - MDN "simple cookie framework"
-  - `vue-cookies`
+
+- Safest (as long as it's __your__ cookie)
+- Read/Write on Client/Server
+- Cookies sent back and forth
+- Limited in terms of count and size
+- Simple values
+- Terrible API
+
+#### How Many?
+
+Browser Spec (Feb 1997)
+
+- 20 per unique host
+- 300 cookies (per browser)
+- 4096 bytes per cookie
+
+#### Possible Uses
+
+- Auth
+- Preferences
+- MDN "Simple Cookie Framework"
+- others...
+
 ### Web Storage
-- AKA LocalStorage
-- KV storage only
-- Simple values only (strings! Use JSON if you want)
-- Session version
-### IndexedDB - Overview
-- _Not IndexDB_
-- Storage for significant amounts of structured data
-- NoSQL (kinda)
+
+- AKA `localStorage`
+- Key/value storage
+- Simple values (JASON FTW - casts to STRING)
+- `sessionStorage`: Session version (ends when tab closes)
+- Remembering form entries across accidental tab close
+
+#### How Much
+
+- 5 MB
+
+#### Methods
+
+- `localStorage.length;`
+- `localStorage.clear();`
+
+You can detect when `localStorage` changes (with listener)
+
+#### Libraries
+
+- [Lockr](https://www.lockr.io/)
+
+### IndexedDB
+
+- Not IndexDB
+- Storage for "significant amounts of structured data"
+- NoSQL (Kinda)
 - Async + Transaction API
-- Neither easy nor simple
-### IndexedDB - How does it work?
-- Value lookup by key (think 'primary key')
-- Index on (most) any property
-- Limited searching (really only index searching)
-### IndexedDB - API
-- `database` vs `object store` vs `index` vs `key`
-### IndexedDB - Getting Started
-- Open a DB
-- Listen for an event that signals that the DB is ready
-- You can define object stores on a per-DB-version basis
-- You have to **plan ahead** and know what you want to store
-- Migrations need to be written manually, and you _version_ the DB via incrementing the assigned number (you have to handle the logic re: whether a person's DB needs upgrading)
-### Service Worker + Cache API
-- Service Workers provide async access to the network stack
-- Caches are keyed by name
-- **Workbox** is a common library for dealing with service workers
-### Limits
-- Storage API
-  - "Best effort" strategy means data is only persistent until something more important comes along
+- Not easy or simple (lots of start up effort)
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- Store binary data! (Sounds!)
+
+#### How Much?
+
+- Max storage space is half your hard drive size
+
+#### Index What?
+
+- Get values based on key
+- You can make an index on (most) any property
+- And range on an index (think names)
+- Outside of indexes, no "search"
+
+#### Getting Started and Demos
+
+(see actual [slides](https://github.com/cfjedimaster/client-side-storage-preso)
+)
+
+#### Tools
+
+- Dexie.js
+- idb
+- localForge
+
+### Service Workers + Cache API
+
+- PWA
+- Cache PI lets you read/write to the browser cache
+- Keyed by name (think bucket)
+
+#### Choose the Right Cache Strategy
+
+- Push Notifications
+- Find the right push strategy for you, then find the right library
+
+#### Service Worker Libraries
+
+- Workbox
+- ServiceWorker Cookbook
+
+
+## How to Use These Tools
+
+- Storage API (for managing client-side storage for a site across IndexedDB, cookies, etc)
+- "best-effort" vs "persistent"
+- StorageManager
+- Chrome Native File System API
+
+
+## Questions
+
+- Security around hitting limits
+- HIPAA for IndexedDB/other storage? BAA? Encryption?
